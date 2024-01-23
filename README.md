@@ -1,22 +1,4 @@
-# DocAI - Real-time Document Editor with OpenAI integration
 
-![image](https://user-images.githubusercontent.com/86405648/213916663-83991661-196b-4e0f-8bfe-3856535dddc3.png)
-
-This project is a real-time document editor built using React and Quill.js. It allows multiple users to collaborate on a document in real-time, similar to Google Docs. 
-Also we have integrated the OpenAI so that user can give prompt to AI and get the results to write a documents.
-
-## Features
-- User authentication and authorization using JWT
-- Create and edit documents in real-time 
-- Live collaboration
-- Store documents on MongoDB
-
-## Getting Started
-
-1. Clone the repository
-```bash
-git clone https://github.com/Waishnav/Doc-AI
-```
 
 
 2. Install the dependencies
